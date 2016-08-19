@@ -1,5 +1,5 @@
 # D-TECT
-D-TECT - Pentesting the Modern Web
+D-TECT - Pentest the Modern Web
 
 Author: [Shawar Khan] (https://shawarkhan.com/about/)
 
