@@ -31,3 +31,5 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 ###Usage:
 python d-tect.py
 
+###Menu:
+![Menu](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/menu.png)
