@@ -64,7 +64,7 @@ python d-tect.py
 ![WP Username Enumeration](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/usernameenumeration.png)
 
 ###Same Site Scripting detection:
-![Same-Site Scripting](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/samesitescripting.png)
+![Same-Site Scripting](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/samesitescripting.jpeg)
 
 # Special Thanks To:
 * Curt Smith
