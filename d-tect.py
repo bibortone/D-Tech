@@ -37,16 +37,15 @@ sqliscanner		=		"off"
 
 
 def dtect():
-	print '''
-  ____   _____ _____ ____ _____ 
- |  _ \ |_   _| ____/ ___|_   _|
- | | | |__| | |  _|| |     | |  
- | |_| |__| | | |__| |___  | |  
- |____/   |_| |_____\____| |_|  v1.0
- 
- D-TECT - Pentest the Modern Web
- Author: Shawar Khan - ( https://shawarkhan.com )
-'''
+	print("  ____   _____ _____ ____ _____ ")
+	print(" |  _ \ |_   _| ____/ ___|_   _|")
+	print(" | | | |__| | |  _|| |     | |  ")
+	print(" | |_| |__| | | |__| |___  | |  ")
+	print(" |____/   |_| |_____\____| |_|  v1.0")
+	print("") 
+	print(" D-TECT - Pentest the Modern Web")
+	print(" Author: Shawar Khan - ( https://shawarkhan.com )")
+	print("")
 	def menu():
 		global filedetector,wpenumerator,subdomainscan,portscan,wpscan,xssscanner,wpbackupscan,sqliscanner
 		print(" -- "+boldwhite+"Menu"+reset+" -- \n \n  1. 	"+boldwhite+"WordPress Username Enumerator"+reset+"   \n  2. 	"+boldwhite+"Sensitive File Detector"+reset+"        \n  3. 	"+boldwhite+"Sub-Domain Scanner"+reset+"\n  4. 	"+boldwhite+"Port Scanner"+reset+"        \n  5. 	"+boldwhite+"Wordpress Scanner\n"+reset+"  6. 	"+boldwhite+"Cross-Site Scripting [ XSS ] Scanner\n"+reset+"  7.    "+boldwhite+"Wordpress Backup Grabber\n"+reset+"  8.    "+boldwhite+"SQL Injection [ SQLI ] Scanner\n"+reset)
