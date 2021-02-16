@@ -44,7 +44,7 @@ def dtect():
 	print(" |____/   |_| |_____\____| |_|  v1.0")
 	print("") 
 	print(" D-TECT - Pentest the Modern Web")
-	print(" Author: Shawar Khan - ( https://shawarkhan.com )")
+	print(" Author: JokerHack - (@Code_Hacks )")
 	print("")
 	def menu():
 		global filedetector,wpenumerator,subdomainscan,portscan,wpscan,xssscanner,wpbackupscan,sqliscanner
