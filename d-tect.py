@@ -217,7 +217,7 @@ def dtect():
 
 			if found == 1:
 				print("[!] "+red+"SQL Injection Vulnerability Found!"+reset)
-				print dbfound
+				print ("dbfound")
 				vuln.append("'"+n[0]+"'")
 				found = 0
 		if len(vuln) != 0:
